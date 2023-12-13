@@ -1,1 +1,1 @@
-# Java_School_Intermediate
+# TechPit_Javaスクール_総合問題
