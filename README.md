@@ -39,6 +39,7 @@ src/main/resources/mybatis-config.xml
 head.html
 各画面の共通ヘッダ
 src/main/resources/templates/common/head.html
+![head html](https://github.com/DWYNWA/Java_School_Intermediate/assets/153730492/ac9ab4b1-c9c5-484c-8bc4-131901bad329)
 
 list.html
 ユーザ一覧画面
