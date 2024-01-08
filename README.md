@@ -26,6 +26,7 @@ build.gradle の dependencies の構成
 application.yml
 アプリケーションの設定ファイルです。
 src/main/resources/application.yml
+![application yml](https://github.com/DWYNWA/Java_School_Intermediate/assets/153730492/39e56425-f029-46ff-a92a-37d7091d122f)
 
 
 mybatis-config.xml
