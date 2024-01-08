@@ -49,6 +49,7 @@ src/main/resources/templates/user/list.html
 list.css
 ユーザ一覧画面用 CSS 
 src/main/resources/static/css/list.css
+![list css](https://github.com/DWYNWA/Java_School_Intermediate/assets/153730492/6db11365-83af-45a7-9047-cd86f779f97b)
 
 UserMapper.xml
 MyBatis のマッパーXML 
