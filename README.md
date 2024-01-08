@@ -44,6 +44,7 @@ src/main/resources/templates/common/head.html
 list.html
 ユーザ一覧画面
 src/main/resources/templates/user/list.html
+![list html](https://github.com/DWYNWA/Java_School_Intermediate/assets/153730492/82a31bae-300c-4f71-a376-74970766d03b)
 
 list.css
 ユーザ一覧画面用 CSS 
