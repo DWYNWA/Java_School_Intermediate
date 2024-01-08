@@ -20,6 +20,7 @@ build.gradle の dependencies の構成
 <img width="738" alt="build gradle の dependencies の構成" src="https://github.com/DWYNWA/Java_School_Intermediate/assets/153730492/1699cb8d-105c-4ab4-82df-4ae7e74f5360">
 
 フォルダ構成を作成
+<img width="348" alt="フォルダ構成" src="https://github.com/DWYNWA/Java_School_Intermediate/assets/153730492/ff6678f1-d23c-4891-8283-4744ab0f4a1e">
 
 application.yml
 アプリケーションの設定ファイルです。
