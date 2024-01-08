@@ -34,6 +34,7 @@ src/main/resources/application.yml
 mybatis-config.xml
 ORマッパー(MyBatis)の設定ファイル
 src/main/resources/mybatis-config.xml
+![mybatis-config xml](https://github.com/DWYNWA/Java_School_Intermediate/assets/153730492/ba3b1f2f-1221-4514-8341-49b7fc0ffc6e)
 
 head.html
 各画面の共通ヘッダ
