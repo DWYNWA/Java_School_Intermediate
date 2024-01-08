@@ -18,8 +18,7 @@ SpringBoot プロジェクトと、PostgreSQL の接続を行い、設定して�
 
 プロジェクト名 「java-sample-pj」
 build.gradle の dependencies の構成
-<img scr = "<img width="738" alt="build gradle の dependencies の構成" src="https://github.com/DWYNWA/Java_School_Intermediate/assets/153730492/1699cb8d-105c-4ab4-82df-4ae7e74f5360">
-" width="90"></img>
+<img width="738" alt="build gradle の dependencies の構成" src="https://github.com/DWYNWA/Java_School_Intermediate/assets/153730492/1699cb8d-105c-4ab4-82df-4ae7e74f5360">
 
 
 2.プロジェクトの実行と動作確認
