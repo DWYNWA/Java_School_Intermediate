@@ -18,6 +18,7 @@ SpringBoot プロジェクトと、PostgreSQL の接続を行い、設定して�
 ※ロジェクト名 「java-sample-pj」※
 
 build.gradle の dependencies の構成
+
 ![build gradle の dependencies](https://github.com/DWYNWA/Java_School_Intermediate/assets/153730492/3867f90d-0c6b-4a8a-89f0-82582b7b8b98)
 
 フォルダ構成を作成
