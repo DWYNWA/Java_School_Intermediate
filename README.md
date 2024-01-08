@@ -1,4 +1,5 @@
-# TechPit_Javaスクール_総合問題
-# 1.SpringBoot プロジェクトと PostgreSQL の接続
+# 概要
+SpringBoot プロジェクト
+# 環境構築方法
 
-# 2.ユーザ登録画面を作成
+# ユーザ登録APIとログインAIPの実装方法
