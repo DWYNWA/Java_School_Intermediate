@@ -24,57 +24,57 @@ build.gradle の dependencies の構成
 <img width="348" alt="フォルダ構成" src="https://github.com/DWYNWA/Java_School_Intermediate/assets/153730492/ff6678f1-d23c-4891-8283-4744ab0f4a1e">
 
 application.yml
-アプリケーションの設定ファイルです。
+アプリケーションの設定ファイル
 src/main/resources/application.yml
 ![application yml](https://github.com/DWYNWA/Java_School_Intermediate/assets/153730492/39e56425-f029-46ff-a92a-37d7091d122f)
 
 
 mybatis-config.xml
-ORマッパー(MyBatis)の設定ファイルです。
+ORマッパー(MyBatis)の設定ファイル
 src/main/resources/mybatis-config.xml
 
 head.html
-各画面の共通ヘッダです。
+各画面の共通ヘッダ
 src/main/resources/templates/common/head.html
 
 list.html
-ユーザ一覧画面です。
+ユーザ一覧画面
 src/main/resources/templates/user/list.html
 
 list.css
-ユーザ一覧画面用 CSS です。
+ユーザ一覧画面用 CSS 
 src/main/resources/static/css/list.css
 
 UserMapper.xml
-MyBatis のマッパーXML です。
+MyBatis のマッパーXML 
 src/main/resources/com/example/javasamplepj/domain/mapper/UserMapper.xml
 
 MyBatisConfig.java
-MyBatis 設定ファイル です。
+MyBatis 設定ファイル 
 src/main/java/com/example/javasamplepj/config/MyBatisConfig.java
 
 UserController.java
-User 用のコントローラークラスです。
+User 用のコントローラークラス
 src/main/java/com/example/javasamplepj/controller/UserController.java
 
 UserService.java
-User 用のサービスクラスです。
+User 用のサービスクラス
 src/main/java/com/example/javasamplepj/domain/service/user/UserService.java
 
 UserRepository.java
-User 用のリポジトリクラスです。
+User 用のリポジトリクラス
 src/main/java/com/example/javasamplepj/domain/repository/UserRepository.java
 
 UserMapper.java
-MyBatis のマッパーjavaクラスです。
+MyBatis のマッパーjavaクラス
 src/main/java/com/example/javasamplepj/domain/mapper/UserMapper.java
 
 User.java
-User 用のエンティティクラスです。
+User 用のエンティティクラス
 src/main/java/com/example/javasamplepj/domain/model/user/User.java
 
 UserRequest.java
-User 用のリクエストクラスです。
+User 用のリクエストクラス
 src/main/java/com/example/javasamplepj/domain/model/user/UserRequest.java
 
 
@@ -82,17 +82,5 @@ src/main/java/com/example/javasamplepj/domain/model/user/UserRequest.java
 2.プロジェクトの実行と動作確認
 プロジェクト起動
 プロジェクトを起動し、以下のURLをブラウザで開きます。
-list.htmlの内容が表示されれば環境構築／動作確認は完了です。
+list.htmlの内容が表示されれば環境構築／動作確認完了
 http://localhost:8080/user/list
-
-3.ユーザ登録画面を作成
-
-ファイルを作成
-
-4.プロジェクトの実行と動作確認
-
-プロジェクト起動
-プロジェクトを起動し、以下のURLをブラウザで開きます。
-add.htmlの内容が表示、そこから新規登録ができれば動作確認は完了です。
-http://localhost:8080/user/add
-
