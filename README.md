@@ -8,3 +8,5 @@ SpringBootのサンプルプロジェクトです。
 
 ## 簡易的なユーザ登録APIとログインAPIの実装方法
 [SpringBoot&PostgreSQLで簡単なユーザ登録APIとログインAPIを実装する](https://qiita.com/ngnmsn/items/636055bcc018783daa7f)
+
+# Java_School_Intermediate
