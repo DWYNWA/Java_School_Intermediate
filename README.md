@@ -15,10 +15,65 @@ SpringBootのサンプルプロジェクトです。
 1. SpringBoot プロジェクトと PostgreSQL の接続
 SpringBoot プロジェクトと、PostgreSQL の接続を行い、設定していきます。
 
-
-プロジェクト名 「java-sample-pj」
+※ロジェクト名 「java-sample-pj」※
 build.gradle の dependencies の構成
 <img width="738" alt="build gradle の dependencies の構成" src="https://github.com/DWYNWA/Java_School_Intermediate/assets/153730492/1699cb8d-105c-4ab4-82df-4ae7e74f5360">
+
+フォルダ構成を作成
+
+application.yml
+アプリケーションの設定ファイルです。
+src/main/resources/application.yml
+
+
+mybatis-config.xml
+ORマッパー(MyBatis)の設定ファイルです。
+src/main/resources/mybatis-config.xml
+
+head.html
+各画面の共通ヘッダです。
+src/main/resources/templates/common/head.html
+
+list.html
+ユーザ一覧画面です。
+src/main/resources/templates/user/list.html
+
+list.css
+ユーザ一覧画面用 CSS です。
+src/main/resources/static/css/list.css
+
+UserMapper.xml
+MyBatis のマッパーXML です。
+src/main/resources/com/example/javasamplepj/domain/mapper/UserMapper.xml
+
+MyBatisConfig.java
+MyBatis 設定ファイル です。
+src/main/java/com/example/javasamplepj/config/MyBatisConfig.java
+
+UserController.java
+User 用のコントローラークラスです。
+src/main/java/com/example/javasamplepj/controller/UserController.java
+
+UserService.java
+User 用のサービスクラスです。
+src/main/java/com/example/javasamplepj/domain/service/user/UserService.java
+
+UserRepository.java
+User 用のリポジトリクラスです。
+src/main/java/com/example/javasamplepj/domain/repository/UserRepository.java
+
+UserMapper.java
+MyBatis のマッパーjavaクラスです。
+src/main/java/com/example/javasamplepj/domain/mapper/UserMapper.java
+
+User.java
+User 用のエンティティクラスです。
+src/main/java/com/example/javasamplepj/domain/model/user/User.java
+
+UserRequest.java
+User 用のリクエストクラスです。
+src/main/java/com/example/javasamplepj/domain/model/user/UserRequest.java
+
 
 
 2.プロジェクトの実行と動作確認
