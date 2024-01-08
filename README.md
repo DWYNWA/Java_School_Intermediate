@@ -15,6 +15,10 @@ SpringBootのサンプルプロジェクトです。
 1. SpringBoot プロジェクトと PostgreSQL の接続
 SpringBoot プロジェクトと、PostgreSQL の接続を行い、設定していきます。
 
+プロジェクト名 「java-sample-pj」
+build.gradle の dependencies の構成
+
+
 2.プロジェクトの実行と動作確認
 プロジェクト起動
 プロジェクトを起動し、以下のURLをブラウザで開きます。
