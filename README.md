@@ -1,4 +1,4 @@
-# SpringBootSampleProject
+# Java_School_Intermediate_総合問題
 
 ## 概要
 SpringBootのサンプルプロジェクトです。
@@ -9,7 +9,7 @@ SpringBootのサンプルプロジェクトです。
 ## 簡易的なユーザ登録APIとログインAPIの実装方法
 [SpringBoot&PostgreSQLで簡単なユーザ登録APIとログインAPIを実装する](https://qiita.com/ngnmsn/items/636055bcc018783daa7f)
 
-# Java_School_Intermediate_総合問題
+# SpringBootSampleProject　java-sample-pj
 ここでは、実務で使用するような開発環境にて、実際に実装～動作確認までを行っていきます。
 # システム仕様
 こちらのプロジェクトはWEBデータベースシステムです。
